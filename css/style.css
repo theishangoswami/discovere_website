@@ -1403,7 +1403,7 @@ h3 {
   font-size: 60px;
   text-transform: capitalize;
   letter-spacing: 2px;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 74px;
 }
 
@@ -1436,7 +1436,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
-    font-size: 30px;
+    font-size: 60px;
     line-height: 35px;
   }
 }
